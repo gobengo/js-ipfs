@@ -20,6 +20,20 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+### [0.3.3](https://www.github.com/ipfs/js-ipfs/compare/ipfs-core-config-v0.3.2...ipfs-core-config-v0.3.3) (2022-04-05)
+
+
+### Bug Fixes
+
+* exclude fs from bundle ([#4076](https://www.github.com/ipfs/js-ipfs/issues/4076)) ([6c3cb73](https://www.github.com/ipfs/js-ipfs/commit/6c3cb73db7b46211c88431273f61f04463a4f80d))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * ipfs-core-utils bumped from ^0.14.2 to ^0.14.3
+
 ### [0.3.2](https://www.github.com/ipfs/js-ipfs/compare/ipfs-core-config-v0.3.1...ipfs-core-config-v0.3.2) (2022-03-01)
 
 
